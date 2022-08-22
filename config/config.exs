@@ -1,4 +1,4 @@
-use Mix.Config
+import Config
 
 #     config(:qr_code, key: :value)
 #
