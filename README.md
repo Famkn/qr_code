@@ -82,6 +82,8 @@ Let's see an example below:
 
 ![QR code color](docs/qrcode_color.svg)
 
+Similar api is available for generating png file as well. Check [QRCode.Png](https://hexdocs.pm/qr_code/QRCode.Png.html#content) for details.
+
 ## Limitations
 
 The QR code is limited by characters that can contain. In our case this library was developed only for `Byte` mode.
